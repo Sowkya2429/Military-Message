@@ -9,12 +9,12 @@ Play sound effects or background music with the Pygame library
 Intuitive graphical interface for easy message input and retrieval
 
 # Usage
-Launch the application
-Enter a message in the designated input field
-Click the "Encode" button to encrypt the message
-The encoded message will be displayed
-Click the "Decode" button to retrieve the original plaintext
-Optionally, use the provided buttons to incorporate images or play music
+1. Launch the application
+2. Enter a message in the designated input field
+3. Click the "Encode" button to encrypt the message
+4. The encoded message will be displayed
+5. Click the "Decode" button to retrieve the original plaintext
+6. Optionally, use the provided buttons to incorporate images or play music
 
 # Acknowledgments
 The Tkinter library: https://docs.python.org/3/library/tkinter.html
